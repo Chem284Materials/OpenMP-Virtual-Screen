@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.14)
 
 # Project name and version
-project(OpenMPSort VERSION 1.0
-	      DESCRIPTION "Sort operation using OpenMP"
-		  LANGUAGES CXX)
+project(OpenMPVirtualScreen VERSION 1.0
+	    DESCRIPTION "Parallelize a VS with OpenMP"
+		LANGUAGES CXX)
 
 # Specify the C++ standard
 set(CMAKE_CXX_STANDARD 11)
